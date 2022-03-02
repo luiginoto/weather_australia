@@ -1,4 +1,4 @@
-# Analysis of Weather Data in Australia
+# Analysis of weather data in Australia
 ## Capstone project for DSGA-1001 Introduction to Data Science class of MS in Data Science at NYU.
 
 The project was carried out in collaboration with other NYU students.
